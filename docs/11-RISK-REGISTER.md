@@ -1,0 +1,2 @@
+# Risk register
+Critical: false commercial validation, financial errors, leakage. Mitigate via qualitative labels, deterministic fixtures, input minimization and injection tests. High: no improvement vs plain LLM, broad scope, platform mismatch, maintenance and adoption. Mitigate via paired benchmark, three business models, early smoke test, shared contracts and pilot feedback. Review before each gate. No release with unresolved critical risk.

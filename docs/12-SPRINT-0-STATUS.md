@@ -1,0 +1,2 @@
+# Sprint 0 status (2026-11-25)
+Fork, push permission, develop branch, upstream commit and tree, MIT license and 30-file inventory confirmed. Project archive integrity checked. Full static audit, isolated upstream tests, packaging documentation, private plugin smoke test and final gate remain open. No third-party code executed. Main unchanged. Source archive is the initial French specification; this repository contains a sanitized English working baseline, not a byte-identical copy.

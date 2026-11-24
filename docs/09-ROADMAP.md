@@ -1,0 +1,2 @@
+# Roadmap
+S0 feasibility: upstream audit, tests, private plugin smoke test. S1 discovery, evidence schema and strategy. S2 Buyer Lab. S3 finance. S4 market/commercial integration. S5 reviewer, security and comparative evals. S6 pilots, bilingual documentation, release. Gates require observable evidence and product owner approval. Do not start S1 before S0 go/no-go.

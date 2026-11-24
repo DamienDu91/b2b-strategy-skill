@@ -1,0 +1,27 @@
+sprint,id,task,status,acceptance
+0,S0-01,Inventory,done,Complete tree
+0,S0-02,Fork and permissions,done,Verified push
+0,S0-03,Pin commit and license,done,Documented
+0,S0-04,Static audit,open,All files reviewed
+0,S0-05,Isolated upstream tests,open,Execution report
+0,S0-06,Packaging docs,open,Runtime contract
+0,S0-07,Private plugin smoke test,open,Skill resource script and error observed
+0,S0-08,Go/no-go,open,PO approval
+1,S1-01,JSON contracts and evidence,open,Fixtures
+1,S1-02,Discovery and router,open,Adaptive brief
+1,S1-03,Strategic Board,open,Options and status quo
+2,S2-01,Firmographic generator,open,Seed and coherence
+2,S2-02,Buying centers and veto,open,Contrast cases
+2,S2-03,Simulation and aggregation,open,No forecast
+2,S2-04,Buyer review,open,Realism >=4/5
+3,S3-01,Deterministic finance FR EN,open,Exact fixtures
+3,S3-02,BFR and sensitivity,open,Missing data handled
+4,S4-01,European market intelligence,open,Dated sources
+4,S4-02,Commercial strategy,open,Offer price channels
+4,S4-03,Integrated workflow,open,Three models
+5,S5-01,Reviewer and decision,open,Contradictions handled
+5,S5-02,Red team,open,No critical unresolved issue
+5,S5-03,Paired benchmark,open,Results and limits
+6,S6-01,Three pilots,open,Completed workflow
+6,S6-02,Bilingual docs and packaging,open,Observed install
+6,S6-03,Release review,open,PO go

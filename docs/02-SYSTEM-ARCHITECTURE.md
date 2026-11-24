@@ -1,0 +1,2 @@
+# Architecture
+Portable skill instructions + deterministic Python + versioned JSON contracts. Router -> discovery -> selected market/strategy/buyer/finance/commercial modules -> reviewer -> decision memo. Each run has isolated context, evidence IDs, assumptions, artifact version and missing fields. No mandatory external MCP. Sequential simulation is not independent multi-agent execution. Runtime adapters tested separately. No network or arbitrary command execution in deterministic scripts.

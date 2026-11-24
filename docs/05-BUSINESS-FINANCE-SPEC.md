@@ -1,0 +1,2 @@
+# Business Finance
+Management decision support only. Use explicit currency, HT/TTC basis, periods and decimal conventions. Compute contribution, break-even, incremental cash flows, payback, ROI, NPV and IRR when identifiable; include BFR, payment terms and ramp-up where material. No silent zero for unknown costs. Distinguish operating result from cash flow. Reject incompatible units, invalid denominators and ambiguous decimal strings. Return assumptions and scenario sensitivities. Reference fixtures before implementation. No tax advice, bookkeeping or certified accounts.

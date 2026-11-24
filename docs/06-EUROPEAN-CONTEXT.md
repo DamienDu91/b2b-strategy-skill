@@ -1,0 +1,2 @@
+# European context
+France deep, EU general. Use EUR by default, ISO currency metadata, NAF/NACE when relevant. Prefer INSEE, Eurostat, Banque de France, Bpifrance, official procurement and legal sources. Verify current law and country-specific constraints at time of decision. Do not infer EU SME status from headcount alone. Distinguish national regulation and commercial practice; no legal compliance guarantee.

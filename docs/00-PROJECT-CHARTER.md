@@ -1,0 +1,2 @@
+# Project charter
+Open-source strategic decision support for French and European B2B SMEs and mid-market companies. France first; industrial goods, business services, and digital solutions. Human decision ownership. No accounting, autonomous commercial actions, or predictive claims based on synthetic buyers. GitHub is the technical source of truth. V1 scope: eight skills. Preserve upstream MIT notice. No employer/client confidential data.
