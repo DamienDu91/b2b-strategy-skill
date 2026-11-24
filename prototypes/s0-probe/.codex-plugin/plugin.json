@@ -1,0 +1,21 @@
+{
+  "interface": {
+    "displayName": "B2B Strategy — Sprint 0",
+    "shortDescription": "Test de faisabilité privé",
+    "longDescription": "Test technique sur données fictives, sans connecteurs externes.",
+    "developerName": "Damien Duguet",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": "Exécute le smoke test du sprint 0."
+  },
+  "name": "b2b-strategy-s0-probe",
+  "version": "0.1.2",
+  "description": "Private feasibility test for B2B Strategy Skill: verify resource loading and deterministic Python execution.",
+  "author": {
+    "name": "Damien Duguet"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}
