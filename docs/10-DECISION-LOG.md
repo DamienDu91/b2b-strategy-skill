@@ -1,3 +1,4 @@
 # Decision log
 2026-11-24: product direction: European B2B SMEs/ETIs, buyer simulation adapted to size and goods/services, non-accounting finance, GitHub fork.
 2026-11-25: fork and develop confirmed; owner authorized continuing S0. Main stays unchanged. Eight-skill scope, France-first, no custom MCP, predictive calibration deferred are working architecture decisions. Public docs exclude employer-specific information. Upstream commit fd9385b0cfe1b96bebce3898fbd506d73eff5a9d; tree 5daad43acd61a521de18534b7670177ab122301f.
+2026-11-25: owner explicitly adopted Deep Work Protocol, requested standalone mini-skill preserving exact English prompt; no Sprint 1 authorization. v0.1.2 plugin-only smoke test reported PASS; controlled copy with SHA-256 and -I -S, no native mounting claim. Issues enabled. Upstream audit/tests remain gate requirements.

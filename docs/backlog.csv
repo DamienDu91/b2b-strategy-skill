@@ -4,8 +4,8 @@ sprint,id,task,status,acceptance
 0,S0-03,Pin commit and license,done,Documented
 0,S0-04,Static audit,open,All files reviewed
 0,S0-05,Isolated upstream tests,open,Execution report
-0,S0-06,Packaging docs,open,Runtime contract
-0,S0-07,Private plugin smoke test,open,Skill resource script and error observed
+0,S0-06,Packaging docs,done,Runtime contract
+0,S0-07,Private plugin smoke test,done,Skill resource script and error observed
 0,S0-08,Go/no-go,open,PO approval
 1,S1-01,JSON contracts and evidence,open,Fixtures
 1,S1-02,Discovery and router,open,Adaptive brief

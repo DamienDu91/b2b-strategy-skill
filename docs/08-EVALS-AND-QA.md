@@ -1,2 +1,4 @@
 # Evals and QA
 Freeze development and held-out scenarios separately before implementation. Compare paired outputs with a strong plain-LLM baseline and upstream adaptation, blinded human review when possible. Target: all deterministic reference tests pass, no fabricated citations or unflagged material assumptions in test set, no unresolved critical security findings, buyer realism and actionability >=4/5, preference >=70% of evaluated pairs (exploratory, not universal proof). Include missing inputs, invalid numbers, prompt injections, contrasting buyer sizes and purchase types. Three pilot businesses target. Record model/runtime/date, failures and costs. Installation and execution must be observed.
+
+Apply docs/13-DEEP-WORK-PROTOCOL.md evidence ladder, pre-registered acceptance criteria, falsification and paired/ablation evaluations where justified. Distinguish reported observations from reproduced ones.
